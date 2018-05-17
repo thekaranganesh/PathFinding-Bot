@@ -9,3 +9,5 @@ http://theory.stanford.edu/~amitp/GameProgramming/
 https://www.codeofhonor.com/blog/the-starcraft-path-finding-hack
 
 The above link gives us a broad understanding of how eventually the pathfinding algorithm works in Starcraft. 
+
+Contributors : - Karan and Ayush.
