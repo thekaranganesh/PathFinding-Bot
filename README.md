@@ -6,3 +6,6 @@ The following link should be followed to understand perfectly the major analysis
 
 http://theory.stanford.edu/~amitp/GameProgramming/
 
+https://www.codeofhonor.com/blog/the-starcraft-path-finding-hack
+
+The above link gives us a broad understanding of how eventually the pathfinding algorithm work in the Starcraft. 
